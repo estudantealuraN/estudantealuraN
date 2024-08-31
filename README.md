@@ -1,9 +1,12 @@
-## Hi there 👋
+**boas vinadas ao meu perfil**
+o meu nome e nicole
 
-<!--
-**estudantealuraN/estudantealuraN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou dessenvolvendo scarth a java script
 
-Here are some ideas to get you started:
+![](https://media.tenor.com/64epAObK2joAAAAi/finn-dance.gif)
+
+meu **corriculo proficional**
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
